@@ -22,7 +22,7 @@ Make sure you have the following installed:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/weather-api.git
+git clone https://github.com/outnova/weather-api.git
 cd weather-api
 ```
 
@@ -152,7 +152,7 @@ Asegúrate de tener instalado:
 1. **Clonar el repositorio**
 
 ```bash
-git clone https://github.com/your-username/weather-api.git
+git clone https://github.com/outnova/weather-api.git
 cd weather-api
 ```
 
